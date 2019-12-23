@@ -1,6 +1,7 @@
 def badge_maker(speaker)
-
+puts "Hello!! My name is #{speaker}"
 end
+
 
 
 
