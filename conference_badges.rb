@@ -11,8 +11,7 @@
 # end
 # new messages
 # def batch_badge_creator(names)
-#   names.map do |speaker|
-#     badge_maker(speaker)
+#   
 #   end
 # end
 
