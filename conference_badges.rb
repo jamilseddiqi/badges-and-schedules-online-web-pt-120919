@@ -3,8 +3,8 @@
 people.each do |name|
 
 puts "Hello!! My name is #{name}"
-
-end
+end 
+end 
 
 # def batch_badge_creator(names)
 
