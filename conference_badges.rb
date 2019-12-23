@@ -10,9 +10,9 @@ end
 def batch_badge_creator(names)
  
   end
-  new_array
+  
 end
-new messages
+
 def batch_badge_creator(names)
   
   end
