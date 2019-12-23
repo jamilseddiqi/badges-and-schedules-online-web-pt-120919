@@ -1,5 +1,9 @@
-def badge_maker(speaker)
-puts "Hello!! My name is #{speaker}"
+# def badge_maker(speaker)
+
+people.each do |name|
+
+puts "Hello!! My name is #{name}"
+
 end
 
 # def batch_badge_creator(names)
