@@ -4,30 +4,26 @@ end
 
 
 
-
-
-
-
-def batch_badge_creator(names)
+# def batch_badge_creator(names)
  
-  end
+#   end
   
-end
+# end
 
-def batch_badge_creator(names)
+# def batch_badge_creator(names)
   
-  end
-end
+#   end
+# end
 
-def assign_rooms(names)
+# def assign_rooms(names)
  
  
-  end
-end
+#   end
+# end
 
-def printer(speaker)
+# def printer(speaker)
  
-  end
+#   end
   
-  end
-end
+#   end
+# end
